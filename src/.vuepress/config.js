@@ -8,7 +8,7 @@ module.exports = {
     '/': {
       lang: 'zh-CN',
       title: '前端知识点总结',
-      description: '任何不能够给你快乐的编程都是耍流氓'
+      description: '任何不能够给你快乐的编程都是耍流氓,耍流氓！'
     }
   },
   head: [
@@ -48,7 +48,8 @@ module.exports = {
             items: [
               { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
               { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
+              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'},
+              { text: '吹一个', link: '/zh/algorithm/Charpter7.md'}
             ],
           },
           {
