@@ -49,7 +49,6 @@ module.exports = {
               { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
               { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
               { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'},
-              { text: '吹一个', link: '/zh/algorithm/Charpter7.md'}
             ],
           },
           {
@@ -82,7 +81,9 @@ module.exports = {
               { text: 'Webpack', link: '/zh/webpack/'},
               { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
               { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
-              { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
+              { text: 'TouTiao', link: '/zh/interface/TouTiao.md'},
+              { text: 'JSX', link: '/zh/interface/JSX.md'},
+              { text: 'dom diff', link: '/zh/interface/dom diff.md'}
             ]
           },
           // {

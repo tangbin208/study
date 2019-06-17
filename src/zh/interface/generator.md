@@ -1,0 +1,4 @@
+
+generator函数第一次调用,返回的是一个迭代器
+generator函数返回两个值(value,done)
+后一次调用next传入的表达式会作为前一次yield表达式的返回值
