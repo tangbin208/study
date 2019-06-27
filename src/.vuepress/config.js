@@ -83,7 +83,7 @@ module.exports = {
               { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
               { text: 'TouTiao', link: '/zh/interface/TouTiao.md'},
               { text: 'JSX', link: '/zh/interface/JSX.md'},
-              { text: 'dom diff', link: '/zh/interface/dom diff.md'}
+              { text: 'mobx', link: '/zh/interface/mobx.md'},
             ]
           },
           // {
